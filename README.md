@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an independent software engineer and agile coach at [Bjièn](https://bjien.be/), where I help SaaS startups and scaleups level up their engineering aspects.
+
+My key skills are SaaS development, Test-Driven Development (TDD), Domain-Driven Design (DDD), agile methodologies and frameworks, Python, Go, and PHP.
+
 <!--
 **dietrichm/dietrichm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
