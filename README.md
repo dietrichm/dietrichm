@@ -4,6 +4,10 @@ I'm an independent software engineer and agile coach at [Bjièn](https://bjien.b
 
 My key skills are SaaS development, Test-Driven Development (TDD), Domain-Driven Design (DDD), agile methodologies and frameworks, Python, Go, and PHP.
 
+#### Contact me
+
+Feel free to connect with me on or send me a message through [LinkedIn](https://www.linkedin.com/in/dietrichm/), [Twitter](https://twitter.com/dietr_ch) or [e-mail](https://bjien.be/contact/).
+
 <!--
 **dietrichm/dietrichm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
