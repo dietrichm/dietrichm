@@ -4,6 +4,11 @@ I'm an independent software engineer and agile coach at [Bjièn](https://bjien.b
 
 My key skills are SaaS development, Test-Driven Development (TDD), Domain-Driven Design (DDD), agile methodologies (Lean/XP/Kanban/Scrum), Python, Go, and PHP.
 
+### My articles 📓
+
+I sometimes write about company and team agility, software engineering, startups, and related subjects.
+Check out my [articles at bjien.be](https://bjien.be/articles/) or my [DEV Community (dev.to) profile](https://dev.to/dietrich).
+
 ### Contact me 📫
 
 Feel free to connect with me on or send me a message through [LinkedIn](https://www.linkedin.com/in/dietrichm/), [Twitter](https://twitter.com/dietr_ch) or [e-mail](https://bjien.be/contact/).
