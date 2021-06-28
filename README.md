@@ -11,7 +11,7 @@ Check out my [articles at bjien.be](https://bjien.be/articles/) or my [DEV Commu
 
 ### Contact me 📫
 
-Feel free to connect with me on or send me a message through [LinkedIn](https://www.linkedin.com/in/dietrichm/), [Twitter](https://twitter.com/dietr_ch) or [e-mail](https://bjien.be/contact/).
+Feel free to connect with me on or send me a message through [LinkedIn](https://www.linkedin.com/in/dietrichm/), [Twitter](https://twitter.com/dietr_ch), [Polywork](https://www.polywork.com/dietrich), or [e-mail](https://bjien.be/contact/).
 
 <!--
 **dietrichm/dietrichm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
