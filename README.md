@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm an independent software engineer and agile coach at [Bjièn](https://bjien.be/), where I help SaaS startups and scaleups take engineering to the next level.
-
-My key skills are SaaS development, Test-Driven Development (TDD), Domain-Driven Design (DDD), agile methodologies (Lean/XP/Kanban/Scrum), Python, Go, and PHP.
+I'm Dietrich, software engineering consultant, agile coach and advisor at my company [Bjièn](https://bjien.be/).
 
 ### My articles 📓
 
